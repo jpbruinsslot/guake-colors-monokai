@@ -1,0 +1,2 @@
+Monokai theme for Guake
+=======================
