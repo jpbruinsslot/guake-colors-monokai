@@ -1,10 +1,9 @@
 Monokai theme for Guake
 =======================
 
-Execute the following commands:
+Execute the following command:
 
 ``` bash
-chmod +x setup.sh
 ./setup.sh
 ```
 
